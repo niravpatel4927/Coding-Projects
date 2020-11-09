@@ -1,2 +1,2 @@
 # Description
-Contains all coding assignments from my data structures class
+Contains coding assignments from my data structures class, as well as some personal coding projects
